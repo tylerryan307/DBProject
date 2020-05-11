@@ -1,0 +1,15 @@
+{
+  "name": "montest",
+  "version": "1.0.0",
+  "description": "This is an Student setup",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Ivy",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.9"
+  }
+}
